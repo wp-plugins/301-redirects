@@ -4,12 +4,12 @@
 Plugin Name: 301 Redirects
 Plugin URI: http://tonyspiro.com
 Description: A plugin that helps you add 301 redirects to your site.
-Version: 0.1
+Version: 0.2
 Author: Tony Spiro
 Author URI: http://tonyspiro.com
 License: GPL2
 
-Copyright 2014  Tony Spiro (email: tspiro@tonyspiro.com)
+Copyright 2015  Tony Spiro (email: tspiro@tonyspiro.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
